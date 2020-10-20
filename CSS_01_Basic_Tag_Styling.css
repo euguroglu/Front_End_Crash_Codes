@@ -1,0 +1,19 @@
+  h1{
+    color: blue; <!-- h1 tag is come from html file where we want to change stylesheet
+    and to change color we simply wrote down color -->
+  }
+
+  li{
+    color:rgb(130, 100, 0);
+
+  }
+
+  p{
+    color: #661275;
+
+  }
+
+  h4{
+    color:rgba(13, 90,140, 0.5); <!-- Last value is transparency -->
+
+  }
